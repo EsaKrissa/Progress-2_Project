@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+         />
+
+    <item
+        android:id="@+id/favorite"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_favorite"
+        android:title="Favorite"
+        />
+
+    <item
+        android:id="@+id/notification"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_notification"
+        android:title="Notifications"
+        />
+
+    <item
+        android:id="@+id/profile"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_account"
+        android:title="Profile"
+        />
+
+</menu>

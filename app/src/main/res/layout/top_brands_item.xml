@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="110dp"
+    android:layout_height="110dp"
+    android:layout_marginStart="4dp"
+    android:layout_marginBottom="29dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:elevation="20dp"
+    android:background="@drawable/top_brands_bg">
+
+    <ImageView
+        android:id="@+id/brand_item_logo"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="25dp"
+        android:src="@drawable/brand_logo_1" />
+
+</RelativeLayout>

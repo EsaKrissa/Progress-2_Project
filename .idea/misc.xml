@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bg_half_bottom.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/custom_button.xml" value="0.1685" />
+        <entry key="app/src/main/res/drawable/half_rounded.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/ic_drawer.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/ic_search.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/ic_splash_screen.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/ic_weed.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/search_view_bg.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/splash_screen.xml" value="0.151" />
+        <entry key="app/src/main/res/layout/activity_booking.xml" value="0.12295081967213115" />
+        <entry key="app/src/main/res/layout/activity_forgot_password.xml" value="0.12295081967213115" />
+        <entry key="app/src/main/res/layout/activity_get_started.xml" value="0.12865142822265635" />
+        <entry key="app/src/main/res/layout/activity_location.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.11319274902343754" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.12295081967213115" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.12295081967213115" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/available_cars_near.xml" value="0.1681625366210937" />
+        <entry key="app/src/main/res/layout/fragment_favorite.xml" value="0.21875" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.14837341308593752" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.21875" />
+        <entry key="app/src/main/res/layout/group_item.xml" value="0.18963690461002447" />
+        <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.21875" />
+        <entry key="app/src/main/res/layout/toolbar.xml" value="0.21875" />
+        <entry key="app/src/main/res/layout/top_brands_item.xml" value="0.29463185155114463" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.21875" />
+        <entry key="app/src/main/res/menu/main.xml" value="0.21875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
